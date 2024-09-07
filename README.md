@@ -52,6 +52,7 @@ export default writable(0)
 - Then add your MapBox API key in the file `src/components/AfricaMap.svelte`
 
 ```shell
+npm install
 npm run dev
 ```
 
