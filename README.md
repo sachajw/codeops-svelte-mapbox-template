@@ -48,8 +48,11 @@ export default writable(0)
 
 ## Run the dev server
 
+- You will need to signup at [MapBox](https://www.mapbox.com/) and get an API key first
+
 ```shell
 npm run dev
 ```
 
 - Go to `http://localhost:5173`
+- You should see the continent of Africa
