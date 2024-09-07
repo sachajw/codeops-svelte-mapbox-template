@@ -49,6 +49,7 @@ export default writable(0)
 ## Run the dev server
 
 - You will need to signup at [MapBox](https://www.mapbox.com/) and get an API key first
+- Then add your MapBox API key in the file `AfricaMap.svelte`
 
 ```shell
 npm run dev
